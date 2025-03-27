@@ -7,7 +7,6 @@ import axios from 'axios'
 
 // Global variables
 global.owner = [
-  ['918360234087', 'Ｗ Ｈ Ｉ Ｔ Ｅ ４ ４ ４  ? ?', true], 
    ['237672114754', 'Yusuf', true]
 ] 
 
