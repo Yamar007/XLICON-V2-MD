@@ -15,17 +15,17 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "xliconv2~xC9AUYAI#FQ0nerblJ7vBAP-DuVfzCfLt-IxbBb6bRSqjBub7fMQ"
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -40,17 +40,17 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
